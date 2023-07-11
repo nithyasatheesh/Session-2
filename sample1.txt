@@ -1,8 +1,4 @@
-new line6788 
-new line6788 
-new line6788 
-new line23 
-new line23 
-new line23 
-7878787 
-7878787 
+Age	Customer	Income	Location
+30	A	1200	A1
+32	B	1333	A2
+33		Missing	NA
